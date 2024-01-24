@@ -1,0 +1,19 @@
+{
+	"appId": "000f000001A6XkeaJSam",
+	"appId.__objectType": "Application",
+	"appId.name": "HKIC__test",
+	"belongTo": null,
+	"category": null,
+	"createdDate": "2024-01-24 12:29:54",
+	"custom": true,
+	"id": "003f000001A6XmZTyAaG",
+	"lastModifiedDate": "2024-01-24 12:29:54",
+	"name": "HKIC__abc",
+	"parent": "003f000000kxaz1iXBOi",
+	"parent.__objectType": "ApplicationComponent",
+	"parent.name": "",
+	"protectMode": 0,
+	"seqNo": null,
+	"type": "Script",
+	"visibility": 0
+}
